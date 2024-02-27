@@ -1,0 +1,26 @@
+#name{
+color: rgb(64, 64, 236);
+font-size:44px;
+font-family: Georgia;
+font-style: italic;
+ text-shadow: rgb(246, 255, 0) 1px 0 10px;}
+
+.heading{
+color: rgb(70, 43, 224);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+}
+.para{
+color: rgb(88, 35, 152);
+font-weight: 800;
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+}
+body{
+    background-color:rgba(228, 181, 224, 0.621) ;
+     }
+     #name::first-letter{
+        font-size: 70px;
+        color:blue;
+     }
